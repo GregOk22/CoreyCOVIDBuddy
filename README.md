@@ -1,3 +1,3 @@
-![Corey: COVID Buddy Logo](CoreyCOVIDBuddy/Images/CoreyCOVIDBuddy_Logo.png =100x20)
+<img src="CoreyCOVIDBuddy/Images/CoreyCOVIDBuddy_Logo.png" alt="Corey: COVID Buddy Logo" width="200" />
 #
 Short Description will go here
