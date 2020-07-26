@@ -1,0 +1,4 @@
+framework module VisualRecognitionV4 {
+  header "VisualRecognitionV4-Swift.h"
+  requires objc
+}

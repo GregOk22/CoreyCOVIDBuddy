@@ -1,0 +1,59 @@
+{
+  "Mac" : [
+    {
+      "hash" : "b92f291d062367207ad02c52c91a14630c34fc9d16e82c5271d5f4ab98f5a848",
+      "name" : "IBMSwiftSDKCore",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    },
+    {
+      "hash" : "b92f291d062367207ad02c52c91a14630c34fc9d16e82c5271d5f4ab98f5a848",
+      "name" : "IBMSwiftSDKCore",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    }
+  ],
+  "watchOS" : [
+    {
+      "hash" : "2ec83731170c72fceb6dac1a6943ea1f995518bcfb5b61961b6e48b2ca79ca05",
+      "name" : "IBMSwiftSDKCore",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    },
+    {
+      "hash" : "2ec83731170c72fceb6dac1a6943ea1f995518bcfb5b61961b6e48b2ca79ca05",
+      "name" : "IBMSwiftSDKCore",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    }
+  ],
+  "tvOS" : [
+    {
+      "hash" : "911789d3d4abef69b007b473595a979f5b2e49539db20138934c2f02bd1069fc",
+      "name" : "IBMSwiftSDKCore",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    },
+    {
+      "hash" : "911789d3d4abef69b007b473595a979f5b2e49539db20138934c2f02bd1069fc",
+      "name" : "IBMSwiftSDKCore",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    }
+  ],
+  "commitish" : "1.1.0",
+  "iOS" : [
+    {
+      "hash" : "0583ae19f57db59804f9445768a41c38845bea7558723bd80b9950b3cb16d70a",
+      "name" : "IBMSwiftSDKCore",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    },
+    {
+      "hash" : "0583ae19f57db59804f9445768a41c38845bea7558723bd80b9950b3cb16d70a",
+      "name" : "IBMSwiftSDKCore",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    }
+  ]
+}
