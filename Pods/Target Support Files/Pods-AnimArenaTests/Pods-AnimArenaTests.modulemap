@@ -1,0 +1,6 @@
+framework module Pods_AnimArenaTests {
+  umbrella header "Pods-AnimArenaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
