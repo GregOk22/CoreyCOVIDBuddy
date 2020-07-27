@@ -18,11 +18,7 @@ Please read [DESCRIPTION.md](DESCRIPTION.md) for a full description.
 
 ## Demo Video
 
-(video will go here)
-
-## Symptom Severity Reports
-
-(picture of link to report image will go here)
+<a href="https://drive.google.com/file/d/1ucBqYdOMGNbS-yfYtu7mbUKnyPslxjQ_/view?usp=sharing" title="Corey: COVID Buddy Demo Video"><img src="CoreyCOVIDBuddy/Images/CoreyCurrentUserFeatures.png" alt="Corey: COVID Buddy Demo Video" /></a>
 
 ## Project Roadmap
 
