@@ -11,6 +11,7 @@ With the rise of COVID-19 cases worldwide, Corey is aiding in the development of
 - [Architecture](#Architecture)
 - [Demo Video](#Demo-Video)
 - [Project Roadmap](#Project-Roadmap)
+- [Author](#Author)
 - [License](#License)
 
 ## About
@@ -29,7 +30,7 @@ Please read [DESCRIPTION.md](DESCRIPTION.md) for a full description.
 
 <a href="https://drive.google.com/file/d/1ucBqYdOMGNbS-yfYtu7mbUKnyPslxjQ_/view?usp=sharing" title="Corey: COVID Buddy Demo Video"><img src="CoreyCOVIDBuddy/Images/CoreyCurrentUserFeatures.png" alt="Corey: COVID Buddy Demo Video" /></a>
 
-Click the image above to watch a demo video.
+Click the image above or use [this link](https://drive.google.com/file/d/1ucBqYdOMGNbS-yfYtu7mbUKnyPslxjQ_/view?usp=sharing) to watch a demo video.
 
 ## Project Roadmap
 
