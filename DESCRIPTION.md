@@ -1,6 +1,6 @@
-# Corey: COVID Buddy
+# Corey: COVID Buddy Description
 
-Welcome to Corey! The COVID Buddy.
+Welcome to Corey, the COVID buddy.
 
 Corey: COVID Buddy is a powerful mobile “assistant” application that utilizes IBM Watson to engage in friendly conversations with users. Through these conversations, Corey conducts coronavirus self-assessments, tracks symptom severity data, creates anxiety reduction strategies based on the conversation, and provides answers, personalized tips, and recommendations relating to COVID-19. Relevant conversation data is extracted and stored in a cloud database, then used to generate symptom severity reports that can be emailed to the user and shared with their medical provider. This conversation data is further analyzed and used to find correlations between symptom severity progression/regression and COVID-19. These findings can be used to aid in the development of new treatments, vaccines, and cures.
 
