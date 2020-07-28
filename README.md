@@ -49,6 +49,8 @@ Please see [ROADMAP.md](ROADMAP.md) for more information regarding current and i
 ## Getting Started
 This information will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
+- Click [here](https://firebase.google.com/docs/ios/setup) for documentation on setting up your project to work with Google Firebase.
+- Click [here](https://github.com/IBM/ios-virtual-assistant-app#requirements) for documentation on setting up your project to work with the IBM Watson Assistant service.
 
 ## Author
 
