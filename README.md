@@ -36,7 +36,7 @@ Please read [DESCRIPTION.md](DESCRIPTION.md) for a full description.
 
 ## Demo Video
 
-Click the image above or use [this link](https://drive.google.com/file/d/1ucBqYdOMGNbS-yfYtu7mbUKnyPslxjQ_/view?usp=sharing) to watch a demo video.
+Click the image above or use [this link](https://drive.google.com/file/d/1ucBqYdOMGNbS-yfYtu7mbUKnyPslxjQ_/view?usp=sharing) to watch Corey's demo video.
 
 <a href="https://drive.google.com/file/d/1ucBqYdOMGNbS-yfYtu7mbUKnyPslxjQ_/view?usp=sharing" title="Corey: COVID Buddy Demo Video"><img src="CoreyCOVIDBuddy/Images/CoreyCurrentUserFeatures.png" alt="Corey: COVID Buddy Demo Video" /></a>
 
@@ -47,6 +47,7 @@ Click the image above or use [this link](https://drive.google.com/file/d/1ucBqYd
 Please see [ROADMAP.md](ROADMAP.md) for more information regarding current and in-progress features/functionalities.
 
 ## Getting Started
+
 This information will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
 - Click [here](https://firebase.google.com/docs/ios/setup) for documentation on setting up your project to work with Google Firebase.
