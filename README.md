@@ -2,7 +2,7 @@
 
 #
 
-With the rise of COVID-19 cases worldwide, Corey is aiding in the development of treatments and vaccines through data collection and analysis.
+With the rise of COVID-19 cases worldwide, Corey provides multiple helpful tools to users and is aiding in the development of treatments and vaccines through data collection and analysis.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
