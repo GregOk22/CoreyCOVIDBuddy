@@ -36,9 +36,9 @@ Please read [DESCRIPTION.md](DESCRIPTION.md) for a full description.
 
 ## Demo Video
 
-<a href="https://drive.google.com/file/d/1ucBqYdOMGNbS-yfYtu7mbUKnyPslxjQ_/view?usp=sharing" title="Corey: COVID Buddy Demo Video"><img src="CoreyCOVIDBuddy/Images/CoreyCurrentUserFeatures.png" alt="Corey: COVID Buddy Demo Video" /></a>
-
 Click the image above or use [this link](https://drive.google.com/file/d/1ucBqYdOMGNbS-yfYtu7mbUKnyPslxjQ_/view?usp=sharing) to watch a demo video.
+
+<a href="https://drive.google.com/file/d/1ucBqYdOMGNbS-yfYtu7mbUKnyPslxjQ_/view?usp=sharing" title="Corey: COVID Buddy Demo Video"><img src="CoreyCOVIDBuddy/Images/CoreyCurrentUserFeatures.png" alt="Corey: COVID Buddy Demo Video" /></a>
 
 ## Project Roadmap
 
