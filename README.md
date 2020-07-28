@@ -11,6 +11,7 @@ With the rise of COVID-19 cases worldwide, Corey is aiding in the development of
 - [Architecture](#Architecture)
 - [Demo Video](#Demo-Video)
 - [Project Roadmap](#Project-Roadmap)
+- [Getting Started](#Getting-Started)
 - [Author](#Author)
 - [License](#License)
 
@@ -26,6 +27,13 @@ Please read [DESCRIPTION.md](DESCRIPTION.md) for a full description.
 
 <img src="CoreyCOVIDBuddy/Images/CoreyArchitecture.jpg" alt="Corey's Architecture"/>
 
+1. The user opens the app and creates an account and/or logs in. 
+2. Google Firebase Authentication authenticates the user and allows or denies access to Corey. 
+3. Custom IBM Watson Assistant AI communicates with the user. The app then retrieves, analyzes, and formats conversation data.
+4. Google Firebase Realtime Database stores formatted symptom severity data and user information.
+5. Symptom Severity Reports are generated and emailed to the user upon request through Google Firebase Cloud Messaging. 
+6. The user can voice or video chat with local medical providers (coming soon). Data scientists and health organizations analyze conversation data to find correlations between symptom severity progression/regression and COVID-19. They use these findings to aid in the development of treatments and vaccines.
+
 ## Demo Video
 
 <a href="https://drive.google.com/file/d/1ucBqYdOMGNbS-yfYtu7mbUKnyPslxjQ_/view?usp=sharing" title="Corey: COVID Buddy Demo Video"><img src="CoreyCOVIDBuddy/Images/CoreyCurrentUserFeatures.png" alt="Corey: COVID Buddy Demo Video" /></a>
@@ -37,6 +45,10 @@ Click the image above or use [this link](https://drive.google.com/file/d/1ucBqYd
 <img src="CoreyCOVIDBuddy/Images/CoreyRoadmap.jpg" alt="Corey Project Roadmap"/>
 
 Please see [ROADMAP.md](ROADMAP.md) for more information regarding current and in-progress features/functionalities.
+
+## Getting Started
+This information will help you get a copy of the project up and running on your local machine for development and testing purposes.
+
 
 ## Author
 
