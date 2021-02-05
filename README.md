@@ -57,6 +57,10 @@ This information will help you get a copy of the project up and running on your 
 
 - **Gregory Okhuereigbe**
 
+## Contributors
+
+- **Mike Okhuereigbe**
+
 ## License
 
 This project is licensed under the Apache 2 License - see [LICENSE](LICENSE) file for details.
