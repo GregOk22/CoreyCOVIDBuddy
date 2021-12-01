@@ -59,7 +59,7 @@ This information will help you get a copy of the project up and running on your 
 
 ## Contributors
 
-- **Mike Okhuereigbe**
+- **Olawale Adegboyega**
 
 ## License
 
